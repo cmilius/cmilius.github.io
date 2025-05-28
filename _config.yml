@@ -1,10 +1,10 @@
 # Jekyll Configuration File
 
 # Site-wide settings: Site settings made available as site.PARAMETER_NAME variable in every page within the website
-title: cmilius's homepage
+title: cmilius.github.io
 
-# The `>` after `description:` means to ignore line-breaks until next key. If
-#   you wish to omit the line-break after the end of text, use `>-` instead.
+# The `>` after `description:` means to ignore line-breaks until next key.
+#   If you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
   A personal website that showcases my work, interests, and projects.
 
@@ -14,6 +14,8 @@ social_media:
     url: "https://github.com/cmilius"
 
 # Build settings
+theme: minima
+
 minima:
   # Minima skin selection. Available skins are:
   #   * classic            Default, light color scheme.
@@ -31,10 +33,7 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: Minima Theme repository at GitHub
+    - title: cmilius at GitHub
       icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
-
+      url: "https://github.com/cmilius"
+      

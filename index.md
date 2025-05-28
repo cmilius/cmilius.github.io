@@ -2,12 +2,10 @@
 layout: home
 ---
 
-# cmilius
-
 I love trying and teaching new things.
 
 ## Skills
- 
+
 C# | .NET | Git | SQL | JavaScript | Automation | Embedded Systems | Python | Java | PHP
 
 ## GitHub Stats
