@@ -2,14 +2,11 @@
 layout: home
 ---
 
-I love trying and teaching new things.
+## It's-a me, cmilius!
+
+I love trying and teaching new things. Let's make something cool! I have developed a wide range of software solutions and focus on continuous improvement, learning, and mentorship throughout my projects.
 
 ## Skills
 
 C# | .NET | Git | SQL | JavaScript | Automation | Embedded Systems | Python | Java | PHP
 
-## GitHub Stats
-
-![cmilius's github stats](https://github-readme-stats.vercel.app/api?username=cmilius&hide_title=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmilius&theme=transparent)
